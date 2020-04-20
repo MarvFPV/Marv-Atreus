@@ -916,30 +916,6 @@ $EndComp
 Wire Wire Line
 	6750 5900 6850 5900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
-U 1 1 5EA47DBA
-P 7400 5200
-F 0 "MX26" H 7433 5423 60  0000 C CNN
-F 1 "MX-NoLED" H 7433 5349 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 6775 5175 60  0001 C CNN
-F 3 "" H 6775 5175 60  0001 C CNN
-	1    7400 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D26
-U 1 1 5EA47DC4
-P 7250 5450
-F 0 "D26" V 7296 5382 50  0000 R CNN
-F 1 "SOD-123" V 7205 5382 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 7250 5450 50  0001 C CNN
-F 3 "~" V 7250 5450 50  0001 C CNN
-	1    7250 5450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	7250 5350 7350 5350
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX38
 U 1 1 5EA47DCF
 P 7400 5750
@@ -1540,30 +1516,6 @@ $EndComp
 Wire Wire Line
 	8550 5900 8650 5900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
-U 1 1 5EA954FD
-P 8200 5200
-F 0 "MX27" H 8233 5423 60  0000 C CNN
-F 1 "MX-NoLED" H 8233 5349 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED" H 7575 5175 60  0001 C CNN
-F 3 "" H 7575 5175 60  0001 C CNN
-	1    8200 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:D_Small D27
-U 1 1 5EA95507
-P 8050 5450
-F 0 "D27" V 8096 5382 50  0000 R CNN
-F 1 "SOD-123" V 8005 5382 50  0000 R CNN
-F 2 "Diode_SMD:D_SOD-123" V 8050 5450 50  0001 C CNN
-F 3 "~" V 8050 5450 50  0001 C CNN
-	1    8050 5450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	8050 5350 8150 5350
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX39
 U 1 1 5EA95512
 P 8200 5750
@@ -1662,15 +1614,7 @@ Wire Wire Line
 Connection ~ 6750 5550
 Wire Wire Line
 	6750 5550 6250 5550
-Connection ~ 7250 5550
-Wire Wire Line
-	7250 5550 6750 5550
-Connection ~ 8050 5550
-Wire Wire Line
-	8050 5550 7250 5550
 Connection ~ 8550 5550
-Wire Wire Line
-	8550 5550 8050 5550
 Connection ~ 9050 5550
 Wire Wire Line
 	9050 5550 8550 5550
@@ -1771,16 +1715,6 @@ Connection ~ 7050 5150
 Wire Wire Line
 	7050 5150 7050 4600
 Wire Wire Line
-	7550 5700 7550 5150
-Connection ~ 7550 5150
-Wire Wire Line
-	7550 5150 7550 3800
-Wire Wire Line
-	8350 5700 8350 5150
-Connection ~ 8350 5150
-Wire Wire Line
-	8350 5150 8350 3800
-Wire Wire Line
 	8850 5700 8850 5150
 Connection ~ 8850 4050
 Wire Wire Line
@@ -1867,4 +1801,34 @@ Text GLabel 10350 3800 1    50   Input ~ 0
 Col10
 Text GLabel 10850 3800 1    50   Input ~ 0
 Col11
+Wire Wire Line
+	7550 3800 7550 5700
+Wire Wire Line
+	8350 3800 8350 5700
+Wire Wire Line
+	6750 5550 8550 5550
+Text GLabel 3650 4100 2    50   Input ~ 0
+Col6
+Text GLabel 3650 3900 2    50   Input ~ 0
+Col8
+Text GLabel 3650 3800 2    50   Input ~ 0
+Col9
+Text GLabel 3650 3700 2    50   Input ~ 0
+Col10
+Text GLabel 3650 4000 2    50   Input ~ 0
+Col7
+Text GLabel 3650 3600 2    50   Input ~ 0
+Col11
+Text GLabel 3650 1200 2    50   Input ~ 0
+Col0
+Text GLabel 3650 1300 2    50   Input ~ 0
+Col1
+Text GLabel 3650 1400 2    50   Input ~ 0
+Col2
+Text GLabel 3650 1500 2    50   Input ~ 0
+Col3
+Text GLabel 3650 1900 2    50   Input ~ 0
+Col4
+Text GLabel 3650 2900 2    50   Input ~ 0
+Col5
 $EndSCHEMATC

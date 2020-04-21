@@ -4294,7 +4294,7 @@
   (gr_line (start 113.996001 69.663999) (end 88.849999 54.424001) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 130.252 73.22) (end 118.057601 71.222785) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 139.65 73.22) (end 130.252 73.22) (layer Edge.Cuts) (width 0.1))
-  (gr_text "MarvAtreus v0.1\n" (at 139.665432 146.492696) (layer F.SilkS)
+  (gr_text "MarvAtreus v0.1\n" (at 139.6627 142.0413) (layer F.SilkS)
     (effects (font (size 2.5 2.5) (thickness 0.3)))
   )
   (gr_line (start 219.282955 85.541673) (end 207.927954 101.759574) (layer Eco1.User) (width 0.2))

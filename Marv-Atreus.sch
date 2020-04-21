@@ -67,7 +67,7 @@ U 1 1 5E9D0F02
 P 4200 3300
 F 0 "R6" V 4004 3300 50  0000 C CNN
 F 1 "10k" V 4095 3300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 4200 3300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4200 3300 50  0001 C CNN
 F 3 "~" H 4200 3300 50  0001 C CNN
 	1    4200 3300
 	0    1    1    0   
@@ -93,7 +93,7 @@ U 1 1 5E9D4798
 P 2050 2200
 F 0 "R4" V 1854 2200 50  0000 C CNN
 F 1 "22" V 1945 2200 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2050 2200 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2050 2200 50  0001 C CNN
 F 3 "~" H 2050 2200 50  0001 C CNN
 	1    2050 2200
 	0    1    1    0   
@@ -104,7 +104,7 @@ U 1 1 5E9D6882
 P 1700 2300
 F 0 "R5" V 1504 2300 50  0000 C CNN
 F 1 "22" V 1595 2300 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 1700 2300 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1700 2300 50  0001 C CNN
 F 3 "~" H 1700 2300 50  0001 C CNN
 	1    1700 2300
 	0    1    1    0   
@@ -123,7 +123,7 @@ U 1 1 5E9D8961
 P 2050 2600
 F 0 "C3" H 2142 2646 50  0000 L CNN
 F 1 "1uF" H 2142 2555 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 2050 2600 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2050 2600 50  0001 C CNN
 F 3 "~" H 2050 2600 50  0001 C CNN
 	1    2050 2600
 	1    0    0    -1  
@@ -149,7 +149,7 @@ U 1 1 5E9DAAB2
 P 1000 3550
 F 0 "C5" H 1092 3596 50  0000 L CNN
 F 1 "0.1uF" H 1092 3505 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1000 3550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1000 3550 50  0001 C CNN
 F 3 "~" H 1000 3550 50  0001 C CNN
 	1    1000 3550
 	1    0    0    -1  
@@ -160,7 +160,7 @@ U 1 1 5E9DBD30
 P 600 3550
 F 0 "C4" H 692 3596 50  0000 L CNN
 F 1 "0.1uF" H 692 3505 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 600 3550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 600 3550 50  0001 C CNN
 F 3 "~" H 600 3550 50  0001 C CNN
 	1    600  3550
 	1    0    0    -1  
@@ -171,7 +171,7 @@ U 1 1 5E9DC4F9
 P 1400 3550
 F 0 "C6" H 1492 3596 50  0000 L CNN
 F 1 "0.1uF" H 1492 3505 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1400 3550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1400 3550 50  0001 C CNN
 F 3 "~" H 1400 3550 50  0001 C CNN
 	1    1400 3550
 	1    0    0    -1  
@@ -182,7 +182,7 @@ U 1 1 5E9E43B2
 P 1800 3550
 F 0 "C7" H 1892 3596 50  0000 L CNN
 F 1 "10uF" H 1892 3505 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1800 3550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1800 3550 50  0001 C CNN
 F 3 "~" H 1800 3550 50  0001 C CNN
 	1    1800 3550
 	1    0    0    -1  
@@ -269,7 +269,7 @@ U 1 1 5E9EEB12
 P 1400 1350
 F 0 "C1" V 1171 1350 50  0000 C CNN
 F 1 "22pF" V 1262 1350 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1400 1350 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1400 1350 50  0001 C CNN
 F 3 "~" H 1400 1350 50  0001 C CNN
 	1    1400 1350
 	0    1    1    0   
@@ -280,7 +280,7 @@ U 1 1 5E9F04BF
 P 1400 1700
 F 0 "C2" V 1171 1700 50  0000 C CNN
 F 1 "22pF" V 1262 1700 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 1400 1700 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1400 1700 50  0001 C CNN
 F 3 "~" H 1400 1700 50  0001 C CNN
 	1    1400 1700
 	0    1    1    0   
@@ -357,7 +357,7 @@ U 1 1 5E9FA506
 P 2350 900
 F 0 "R1" H 2409 946 50  0000 L CNN
 F 1 "10k" H 2409 855 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 2350 900 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2350 900 50  0001 C CNN
 F 3 "~" H 2350 900 50  0001 C CNN
 	1    2350 900 
 	1    0    0    -1  
@@ -401,7 +401,7 @@ U 1 1 5EA00BF2
 P 4900 1450
 F 0 "R2" H 4959 1496 50  0000 L CNN
 F 1 "5.1k" H 4959 1405 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 4900 1450 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4900 1450 50  0001 C CNN
 F 3 "~" H 4900 1450 50  0001 C CNN
 	1    4900 1450
 	1    0    0    -1  
@@ -412,7 +412,7 @@ U 1 1 5EA02D1E
 P 4900 2050
 F 0 "R3" H 4959 2096 50  0000 L CNN
 F 1 "5.1k" H 4959 2005 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 4900 2050 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4900 2050 50  0001 C CNN
 F 3 "~" H 4900 2050 50  0001 C CNN
 	1    4900 2050
 	1    0    0    -1  
@@ -1778,59 +1778,35 @@ Row2
 Text GLabel 4600 6100 0    50   Input ~ 0
 Row3
 Text GLabel 5050 3800 1    50   Input ~ 0
-Col0
-Text GLabel 5550 3800 1    50   Input ~ 0
-Col1
-Text GLabel 6050 3800 1    50   Input ~ 0
-Col2
-Text GLabel 6550 3800 1    50   Input ~ 0
-Col3
-Text GLabel 7050 3800 1    50   Input ~ 0
-Col4
-Text GLabel 7550 3800 1    50   Input ~ 0
-Col5
-Text GLabel 8350 3800 1    50   Input ~ 0
-Col6
-Text GLabel 8850 3800 1    50   Input ~ 0
-Col7
-Text GLabel 9350 3800 1    50   Input ~ 0
-Col8
-Text GLabel 9850 3800 1    50   Input ~ 0
-Col9
-Text GLabel 10350 3800 1    50   Input ~ 0
-Col10
-Text GLabel 10850 3800 1    50   Input ~ 0
 Col11
+Text GLabel 5550 3800 1    50   Input ~ 0
+Col10
+Text GLabel 6050 3800 1    50   Input ~ 0
+Col9
+Text GLabel 6550 3800 1    50   Input ~ 0
+Col8
+Text GLabel 7050 3800 1    50   Input ~ 0
+Col7
+Text GLabel 7550 3800 1    50   Input ~ 0
+Col6
+Text GLabel 8350 3800 1    50   Input ~ 0
+Col5
+Text GLabel 8850 3800 1    50   Input ~ 0
+Col4
+Text GLabel 9350 3800 1    50   Input ~ 0
+Col3
+Text GLabel 9850 3800 1    50   Input ~ 0
+Col2
+Text GLabel 10350 3800 1    50   Input ~ 0
+Col1
+Text GLabel 10850 3800 1    50   Input ~ 0
+Col0
 Wire Wire Line
 	7550 3800 7550 5700
 Wire Wire Line
 	8350 3800 8350 5700
 Wire Wire Line
 	6750 5550 8550 5550
-Text GLabel 3650 4100 2    50   Input ~ 0
-Col6
-Text GLabel 3650 3900 2    50   Input ~ 0
-Col8
-Text GLabel 3650 3800 2    50   Input ~ 0
-Col9
-Text GLabel 3650 3700 2    50   Input ~ 0
-Col10
-Text GLabel 3650 4000 2    50   Input ~ 0
-Col7
-Text GLabel 3650 3600 2    50   Input ~ 0
-Col11
-Text GLabel 3650 1200 2    50   Input ~ 0
-Col0
-Text GLabel 3650 1300 2    50   Input ~ 0
-Col1
-Text GLabel 3650 1400 2    50   Input ~ 0
-Col2
-Text GLabel 3650 1500 2    50   Input ~ 0
-Col3
-Text GLabel 3650 1900 2    50   Input ~ 0
-Col4
-Text GLabel 3650 2900 2    50   Input ~ 0
-Col5
 Text GLabel 3650 1700 2    50   Input ~ 0
 Row1
 Text GLabel 3650 1800 2    50   Input ~ 0
@@ -1839,4 +1815,28 @@ Text GLabel 3650 2100 2    50   Input ~ 0
 Row3
 Text GLabel 3650 2200 2    50   Input ~ 0
 Row2
+Text GLabel 3650 2900 2    50   Input ~ 0
+Col11
+Text GLabel 3650 2700 2    50   Input ~ 0
+Col10
+Text GLabel 3650 2600 2    50   Input ~ 0
+Col9
+Text GLabel 3650 2500 2    50   Input ~ 0
+Col8
+Text GLabel 3650 2400 2    50   Input ~ 0
+Col7
+Text GLabel 3650 3000 2    50   Input ~ 0
+Col5
+Text GLabel 3650 2800 2    50   Input ~ 0
+Col6
+Text GLabel 3650 4100 2    50   Input ~ 0
+Col0
+Text GLabel 3650 4000 2    50   Input ~ 0
+Col1
+Text GLabel 3650 3900 2    50   Input ~ 0
+Col2
+Text GLabel 3650 3800 2    50   Input ~ 0
+Col3
+Text GLabel 3650 3700 2    50   Input ~ 0
+Col4
 $EndSCHEMATC

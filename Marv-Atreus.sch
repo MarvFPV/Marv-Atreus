@@ -1778,29 +1778,29 @@ Row2
 Text GLabel 4600 6100 0    50   Input ~ 0
 Row3
 Text GLabel 5050 3800 1    50   Input ~ 0
-Col11
-Text GLabel 5550 3800 1    50   Input ~ 0
-Col10
-Text GLabel 6050 3800 1    50   Input ~ 0
-Col9
-Text GLabel 6550 3800 1    50   Input ~ 0
-Col8
-Text GLabel 7050 3800 1    50   Input ~ 0
-Col7
-Text GLabel 7550 3800 1    50   Input ~ 0
-Col6
-Text GLabel 8350 3800 1    50   Input ~ 0
-Col5
-Text GLabel 8850 3800 1    50   Input ~ 0
-Col4
-Text GLabel 9350 3800 1    50   Input ~ 0
-Col3
-Text GLabel 9850 3800 1    50   Input ~ 0
-Col2
-Text GLabel 10350 3800 1    50   Input ~ 0
-Col1
-Text GLabel 10850 3800 1    50   Input ~ 0
 Col0
+Text GLabel 5550 3800 1    50   Input ~ 0
+Col1
+Text GLabel 6050 3800 1    50   Input ~ 0
+Col2
+Text GLabel 6550 3800 1    50   Input ~ 0
+Col3
+Text GLabel 7050 3800 1    50   Input ~ 0
+Col4
+Text GLabel 7550 3800 1    50   Input ~ 0
+Col5
+Text GLabel 8350 3800 1    50   Input ~ 0
+Col6
+Text GLabel 8850 3800 1    50   Input ~ 0
+Col7
+Text GLabel 9350 3800 1    50   Input ~ 0
+Col8
+Text GLabel 9850 3800 1    50   Input ~ 0
+Col9
+Text GLabel 10350 3800 1    50   Input ~ 0
+Col10
+Text GLabel 10850 3800 1    50   Input ~ 0
+Col11
 Wire Wire Line
 	7550 3800 7550 5700
 Wire Wire Line

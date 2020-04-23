@@ -1908,4 +1908,53 @@ Wire Wire Line
 	2250 2200 2250 2300
 Wire Wire Line
 	2250 2300 2450 2300
+Text GLabel 5400 2850 0    50   Input ~ 0
+MISO
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even J1
+U 1 1 5EA26ACB
+P 5600 2950
+F 0 "J1" H 5650 3267 50  0000 C CNN
+F 1 "Conn_02x03_Odd_Even" H 5650 3176 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5600 2950 50  0001 C CNN
+F 3 "~" H 5600 2950 50  0001 C CNN
+	1    5600 2950
+	1    0    0    -1  
+$EndComp
+Text GLabel 5400 2950 0    50   Input ~ 0
+SCK
+Text GLabel 5400 3050 0    50   Input ~ 0
+RST
+Text GLabel 5900 2950 2    50   Input ~ 0
+MOSI
+$Comp
+L power:GND #PWR0120
+U 1 1 5EA59823
+P 5900 3050
+F 0 "#PWR0120" H 5900 2800 50  0001 C CNN
+F 1 "GND" H 5905 2877 50  0000 C CNN
+F 2 "" H 5900 3050 50  0001 C CNN
+F 3 "" H 5900 3050 50  0001 C CNN
+	1    5900 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0121
+U 1 1 5EA5AFBB
+P 5900 2850
+F 0 "#PWR0121" H 5900 2700 50  0001 C CNN
+F 1 "+5V" H 5915 3023 50  0000 C CNN
+F 2 "" H 5900 2850 50  0001 C CNN
+F 3 "" H 5900 2850 50  0001 C CNN
+	1    5900 2850
+	1    0    0    -1  
+$EndComp
+Text GLabel 3650 1300 2    50   Input ~ 0
+SCK
+Text GLabel 3650 1500 2    50   Input ~ 0
+MISO
+Text GLabel 3650 1400 2    50   Input ~ 0
+MOSI
+Text GLabel 2450 1050 1    50   Input ~ 0
+RST
 $EndSCHEMATC

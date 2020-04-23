@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 203)
-    (tracks 905)
+    (tracks 911)
     (zones 0)
     (modules 106)
     (nets 89)
@@ -60,7 +60,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (grid_origin 139.65 78.3)
-    (visible_elements 7FFFF7FF)
+    (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
       (usegerberextensions true)
@@ -4632,6 +4632,12 @@
   (segment (start 135.330151 79.951) (end 134.824 79.951) (width 0.6) (layer B.Cu) (net 1))
   (segment (start 136.427503 78.853648) (end 135.330151 79.951) (width 0.6) (layer B.Cu) (net 1))
   (segment (start 133.990693 109.601232) (end 132.351768 109.601232) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 145.390693 104.801232) (end 144.390693 104.801232) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 143.690693 112.101232) (end 143.690693 111.597307) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 144.095 111.193) (end 144.095 105.097) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 143.690693 111.597307) (end 144.095 111.193) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 144.390693 104.801232) (end 144.095 105.097) (width 0.25) (layer B.Cu) (net 1))
+  (segment (start 144.095 105.097) (end 142.825 106.366925) (width 0.25) (layer B.Cu) (net 1))
   (segment (start 145.032124 100.446124) (end 146.225986 100.446124) (width 0.25) (layer B.Cu) (net 2))
   (segment (start 142.44451 97.85851) (end 145.032124 100.446124) (width 0.25) (layer B.Cu) (net 2))
   (segment (start 142.125984 96.93099) (end 142.44451 97.249516) (width 0.25) (layer B.Cu) (net 2))
@@ -9163,7 +9169,7 @@
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (keepout (tracks allowed) (vias allowed) (copperpour not_allowed))
-    (fill (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing fillet) (radius 1))
+    (fill (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
         (xy 151.461 103.192) (xy 151.461 106.24) (xy 151.08 107.891) (xy 148.032 107.51) (xy 147.27 106.113)
